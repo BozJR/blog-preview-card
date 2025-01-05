@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://bozjr-blog-preview-card.netlify.app/)
+- Live Site URL: [(https://bozjr-blog-preview-card.netlify.app/)]
 
 
 ### Built with
